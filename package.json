@@ -2,7 +2,7 @@
   "name": "memes",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://juaniz92.github.io/creador_memes/build",
+  "homepage": "https://juaniz92.github.io/creador_memes/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
