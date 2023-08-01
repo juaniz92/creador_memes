@@ -72,7 +72,7 @@ const Imgmeme = () => {
       </div>
 
       <div className='row'>
-        <div className='col-md-6 border border-2 border-warning'>
+        <div className='col-md-6 border border-2 border-warning p-3'>
 
           <div className='row ms-2 mb-3'>
             <div className='col-md-6'>
@@ -134,7 +134,7 @@ const Imgmeme = () => {
             </div>
           </div>
 
-          <div className='row justify-content-between mb-3'>
+          <div className='row justify-content-between'>
             <div className='col-md-6'>
               <h3>Tamaño letra:</h3>
             </div>
@@ -156,6 +156,8 @@ const Imgmeme = () => {
 <button onClick={descarga} type='button' className='btn btn-warning w-25 my-3 m-auto'>Descargar meme</button>
 </div>
 </div>
+
+<footer className="footer mt-5 text-center"><a href="https://www.linkedin.com/in/juan-zalazar/" target="_blank">By Juan Zalazar</a></footer>
 
 </div>
 )
